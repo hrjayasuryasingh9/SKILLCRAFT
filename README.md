@@ -1,7 +1,7 @@
 
 # SkillCraft Technologies Web Developer Internship
 
-![SkillCraft Technologies Logo]([https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1fy0yUeGuoV5uCgnrSe6aEHuYLUiKJ0WdU4aByF2zHPJi38yv](https://blogger.googleusercontent.com/img/a/AVvXsEhLn6ge5N3V0Oc_v5_1J7zDYBKQRJ63TDrgvjHHrIMMEJsbuiVhNGC36zQYneZ6s1a310L5QCZi4y-TIrb7GUFeZkC9NVkpu6M-9AeL0foDJSUEDDpREMSx1epB7Z_3hOlb7gBMly3TFLcH2V4BgNngx9KIJiaQScnN1MpIE6-WobG4BuzTsZ5Ed1DS1vQ=w755-h211)) <!-- Replace this URL with the actual SkillCraft Technologies logo URL -->
+![SkillCraft Technologies Logo](https://blogger.googleusercontent.com/img/a/AVvXsEhLn6ge5N3V0Oc_v5_1J7zDYBKQRJ63TDrgvjHHrIMMEJsbuiVhNGC36zQYneZ6s1a310L5QCZi4y-TIrb7GUFeZkC9NVkpu6M-9AeL0foDJSUEDDpREMSx1epB7Z_3hOlb7gBMly3TFLcH2V4BgNngx9KIJiaQScnN1MpIE6-WobG4BuzTsZ5Ed1DS1vQ=w755-h211) <!-- Replace this URL with the actual SkillCraft Technologies logo URL -->
 
 ### About SkillCraft Technologies
 SkillCraft Technologies is an innovative leader in the tech industry, dedicated to delivering state-of-the-art software solutions. Our mission is to equip businesses with reliable, efficient, and scalable technology, driving their success in today's digital world. We are committed to excellence and known for our creative approach to problem-solving.
